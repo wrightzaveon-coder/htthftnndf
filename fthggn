@@ -3814,7 +3814,7 @@ local Library do
                     Visible = false,
                     ClipsDescendants = true,
                                         ZIndex = 1,
-                    Size = UDim2New(0, 850, 0, 395),
+                    Size = UDim2New(0, 750, 0, 410),
                     BorderSizePixel = 0,
                     BackgroundColor3 = FromRGB(15, 14, 18)
                 })  Items["MainFrame"]:AddToTheme({BackgroundColor3 = "Background"})
